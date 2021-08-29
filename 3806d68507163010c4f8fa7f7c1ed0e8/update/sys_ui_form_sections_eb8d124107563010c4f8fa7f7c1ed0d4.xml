@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="eb8d124107563010c4f8fa7f7c1ed0d4" sys_domain="global" table="x_634004_wish_list_wish_item" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-29 09:55:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>af8d124107563010c4f8fa7f7c1ed0d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_634004_wish_list_wish_item" name="x_634004_wish_list_wish_item" sys_domain="global" view="Default view">eb8d124107563010c4f8fa7f7c1ed0d4</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_634004_wish_list_wish_item" sys_domain="global" view="Default view">0cbbdacd07163010c4f8fa7f7c1ed028</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-29 09:55:29</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_634004_wish_list_wish_item</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-29 09:55:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eb8d124107563010c4f8fa7f7c1ed0d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_634004_wish_list_wish_item</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Wish List" source="x_634004_wish_list">3806d68507163010c4f8fa7f7c1ed0e8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Wish List">3806d68507163010c4f8fa7f7c1ed0e8</sys_scope>
+            <sys_update_name>sys_ui_form_sections_eb8d124107563010c4f8fa7f7c1ed0d4</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-29 09:55:29</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
